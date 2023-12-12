@@ -1,0 +1,336 @@
+urgent
+emergency
+important
+critical
+immediately
+asap
+priority
+need
+must
+require
+necessary
+crucial
+serious
+demand
+pressing
+vital
+time-sensitive
+time-critical
+action
+quick
+fast
+prompt
+swift
+instant
+expedite
+accelerate
+rush
+hurry
+imperative
+compelling
+vital
+necessary
+mandatory
+indispensable
+essential
+life-or-death
+exigent
+acute
+dire
+desperate
+grave
+severe
+dangerous
+risky
+hazardous
+unsafe
+perilous
+threatening
+impending
+looming
+impending
+approaching
+forthcoming
+unavoidable
+inevitable
+inescapable
+untimely
+unexpected
+sudden
+abrupt
+unforeseen
+unanticipated
+crisis
+catastrophe
+disaster
+calamity
+mishap
+accident
+incident
+injury
+damage
+harm
+threat
+peril
+hazard
+risk
+insecurity
+vulnerability
+susceptibility
+fragility
+instability
+jeopardy
+difficulty
+trouble
+problem
+issue
+challenge
+obstacle
+setback
+hindrance
+barrier
+bottleneck
+impasse
+deadlock
+standstill
+delay
+interruption
+disruption
+halt
+stoppage
+stalling
+obstruction
+resistance
+defiance
+opposition
+rebellion
+insurrection
+mutiny
+revolt
+sedition
+unrest
+turbulence
+commotion
+tumult
+upheaval
+turmoil
+chaos
+confusion
+disarray
+disorder
+disorganization
+havoc
+mayhem
+anarchy
+crisis management
+emergency response
+contingency planning
+disaster preparedness
+risk management
+emergency management
+incident management
+business continuity
+crisis communication
+response team
+rapid response
+emergency services
+first responders
+evacuation
+shelter
+safe haven
+refuge
+medical assistance
+paramedics
+ambulance
+trauma center
+emergency room
+life support
+resuscitation
+triage
+mass casualty
+casualty assessment
+search and rescue
+fire suppression
+hazardous materials
+bomb threat
+terrorist attack
+cyber attack
+biological threat
+pandemic
+epidemic
+outbreak
+contagion
+quarantine
+isolation
+social distancing
+personal protective equipment
+decontamination
+emergency repair
+life-saving
+life-threatening
+critical condition
+acute pain
+trauma
+shock
+cardiac arrest
+stroke
+seizure
+respiratory distress
+bleeding
+fracture
+burn
+overdose
+poisoning
+unconscious
+unresponsive
+allergic reaction
+anaphylaxis
+severe dehydration
+high fever
+severe headache
+severe nausea
+severe vomiting
+diarrhea
+severe abdominal pain
+severe chest pain
+shortness of breath
+dizziness
+fainting
+confusion
+disorientation
+memory loss
+loss of consciousness
+convulsions
+hallucinations
+delusions
+suicidal ideation
+self-harm
+violence
+aggression
+hostage
+kidnapping
+extortion
+blackmail
+robbery
+assault
+rape
+murder
+mayday
+distress call
+emergency landing
+emergency escape
+crash landing
+imminent danger
+impending danger
+danger zone
+evacuation order
+curfew
+lockdown
+martial law
+emergency alert
+warning
+evacuation route
+emergency exit
+emergency shelter
+crisis hotline
+disaster relief
+emergency aid
+relief efforts
+urgent request
+urgent assistance
+emergency funding
+emergency supplies
+food shortage
+water shortage
+fuel shortage
+power outage
+communication failure
+transportation disruption
+infrastructure damage
+structural damage
+building collapse
+bridge collapse
+dam failure
+flood
+hurricane
+tornado
+earthquake
+landslide
+forest fire
+wildfire
+oil spill
+chemical spill
+nuclear accident
+industrial accident
+workplace accident
+safety hazard
+product recall
+equipment failure
+system failure
+cyber security breach
+data breach
+identity theft
+phishing
+malware
+virus
+ransomware
+denial-of-service attack
+cyber espionage
+insider threat
+natural disaster
+man-made disaster
+terrorist threat
+bomb explosion
+gunfire
+hostage situation
+active shooter
+school shooting
+workplace violence
+hate crime
+discrimination
+harassment
+assault and battery
+domestic violence
+child abuse
+elder abuse
+animal attack
+shark attack
+snake bite
+spider bite
+insect bite
+allergic shock
+drowning
+suffocation
+electrocution
+radiation exposure
+asbestos exposure
+carbon monoxide poisoning
+lead poisoning
+food poisoning
+hepatitis outbreak
+meningitis outbreak
+influenza outbreak
+ebola outbreak
+zika virus outbreak
+covid-19 outbreak
+chemical exposure
+environmental contamination
+industrial pollution
+nuclear radiation
+air pollution
+water pollution
+meet
+love
+hate
+join 
+share
+presented
+meet me
+call
+calls
+lecture
+call
+meeting
+miss you
+so much
+miss
